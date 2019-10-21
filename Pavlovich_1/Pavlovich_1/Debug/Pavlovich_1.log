@@ -1,0 +1,5 @@
+﻿  Pavlovich_1Doc.cpp
+c:\users\admin\source\repos\pavlovich_1\pavlovich_1\pavlovich_1doc.cpp(148): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\admin\source\repos\pavlovich_1\pavlovich_1\pavlovich_1doc.cpp(153): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Pavlovich_1.vcxproj -> C:\Users\Admin\source\repos\Pavlovich_1\Debug\Pavlovich_1.exe
+  Pavlovich_1.vcxproj -> C:\Users\Admin\source\repos\Pavlovich_1\Debug\Pavlovich_1.pdb (Partial PDB)
